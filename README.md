@@ -2,7 +2,7 @@
 
 *Do you speak another language?
 [English](README_EN.md)* Everything you need to know in English. 
-[German](README_DEU.md)* Alles, was Sie wissen müssen, aber auf Deutsch
+[German](README_DEU.md) Alles, was Sie wissen müssen, aber auf Deutsch
 
 <img align="right" src="https://media.giphy.com/media/ehOmuAGboX837Dx9LR/giphy.gif" width="300"/>
 
