@@ -1,6 +1,6 @@
 # Validator für chilenische RUN (besser bekannt als RUT) in Python
 *Sprechen Sie eine andere Sprache?
-[Spanisch](README.md) Todo lo que necesitas saber en Español. 
+[Spanish](README.md) Todo lo que necesitas saber en Español. 
 [English](README_EN.md)* Everything you need to know in English. 
 
 
