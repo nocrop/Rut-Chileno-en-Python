@@ -19,4 +19,4 @@ El script solicita al usuario que ingrese un RUT. Luego, realiza dos verificacio
 - Café
 
 ## No se requiere instalación adicional de bibliotecas para ejecutar este script. Simplemente clona el repositorio y ejecuta el script principal. 
-No necesitas dar creditos, ni nada, pero si puedes dejame un comentario para saber que lo estas usando. 
+No necesitas dar creditos, ni nada, pero si puedes dejame un comentario para saber que lo estas usando me harias muy feliz, a mi, a Sonic y a un gatito.
